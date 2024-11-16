@@ -73,7 +73,7 @@ header h1 span {
     position: absolute;
     top: 0;
     right: 0;
-    width: 70%;
+    width: 100%;
     height: 100%;
     background-color: #ffff;
     flex-direction: column;
@@ -429,70 +429,166 @@ color: #262729;
 }
 .posts{
     padding: 10px,20px;
-    margin-left: 40px;
+    
 }
 .posts h1{
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 34px;
     text-align: center;
-    margin-left: -50px;
-    padding-bottom: 50px;
+    color: #262729;
+    padding-bottom: 60px;
 }
 .rock{
-    padding-left: 45px;
-    /* padding-bottom: 15px; */
-    padding-top: 30px;
-}
-.posts h2{
-    padding-left: 50px;
-    margin-top: 20px;
-
-}
-.clock{
-    transform: translateY(-260px);
-    padding-left: 260px;
-    padding-top: 20px;
-}
-.posts h3{
-    padding-left: 45px;
-    margin-top: -30px;
-    padding-bottom: 10px;
-    color: #2A90D9;
-}
-.posts p{
-    padding-left: 45px;
-}
-.title-page{
-    padding-left: 60px;
-    padding-top: 60px;
-
-}
-.title-page h1{
+    padding-left: 85px;
     padding-bottom: 30px;
 }
-.title-page ul{
-    padding-bottom: 20px;
+.time{
+    display: flex;
+    justify-content: space-between;
+    margin-left: 70px;
+    margin-right: 70px;
 
 }
+.time h2{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 20px;
+    color: #262729;
+    margin-left: 25px;
+
+
+}
+.posts h3{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 24px;
+    margin-left: 90px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    color: #262729;
+
+
+}
+.posts p{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 22px;
+    margin-left: 90px;
+    padding-bottom: 35px;
+    color: #262729;
+}
+
+
+
 .red-btn{
     height: 40px;
     transform: translateX(-37px);
 }
-.line{
-    padding-left: 30px;
-}
-.title-page h1{
-    color: #2A90D9;
-    padding-top: 50px;
-}
-.title-page h1 span{
-    color: red;
-}
+
 .authors p span{
     color: #2A90D9;
 
 }
-.social-links{
-    padding-bottom: 80px;
-    padding-left: 80px;
-    display: flex;
+
+footer{
+    background-color: #f3f2f0;
+    height: 877px;
+    margin-top: 60px;
+}
+.title-page{
+    margin-left: 85px;
+}
+.title-page h1{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    color: #262729;
+    padding-top: 45px;
+    padding-bottom: 30px;
+
+}
+
+.title-page ul{
+    width: 68px;
+    height: 17px;
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #262729;
+    list-style: none;
+    display:grid;
     gap: 10px;
+    margin-bottom: 60px;
+
+}
+.title-page h2{
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 16px;
+    line-height: 20px;
+    color: #262729;
+    /* margin-left: 20px; */
+    padding-top: 50px;
+    padding-bottom: 30px;
+
+
+} 
+.title-page p{
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+    color: #262729;
+    padding-bottom: 10px;
+
+
+}
+.title-page h3{
+
+    font-family: 'Montserrat';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 32px;
+    line-height: 39px;
+    color: #2A90D9;
+    padding-top: 20px;
+
+}
+.title-page h3 span{
+    color: #ee6858;
+}
+.authors{
+    margin-top: 290px;
+
+font-family: 'Montserrat';
+font-style: normal;
+font-weight: 400;
+font-size: 14px;
+line-height: 17px;
+color: #262729;
+
+
+}
+.social-links{
+    margin-top: -220px;
+    display: flex;
+    gap: 15px;
+    height: 25px;
 }
