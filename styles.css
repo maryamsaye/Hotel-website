@@ -65,7 +65,6 @@ header h1 span {
     margin-right: 90px;
 }
 .icon1{
-    /* margin-left: 200px; */
     margin-top: -30px;
     margin-left: 240px;
 }
@@ -187,6 +186,10 @@ padding-left: 10px;
 }
 .choose{
     padding: 10px,20px;
+    background-color: #EBEBEB;
+    margin-top: 60px;
+    padding-top: 15px;
+    padding-bottom: 30px;
 }
 .choose h1{
     width: 328px;
@@ -199,7 +202,6 @@ padding-left: 10px;
     text-align: center;
     color: #262729;
     margin-left: 85px;
-    margin-top: 70px;
     margin-bottom: 15px;
 }
 .choose p{
@@ -214,42 +216,18 @@ text-align: center;
 color: #333333;
 margin-left: 75px;
 }
-.elps{
-    margin-left: 190px;
-    margin-top: 30px;
-}
+
+
 .pay{
-    margin-left: -80px;
-    margin-bottom: 25px;
-}
-.camera{
-    margin-left: -80px;
-    margin-bottom: 25px;
+    margin-left: 185px;
+    margin-top: 40px;
 
 }
-.hdphone{
-    margin-left: -80px;
-    margin-bottom: 25px;
-
+#chooseContainer img{
+    margin-left: 185px;
+    margin-top: 40px;
 }
-.cat{
-    margin-left: -80px;
-    margin-bottom: 25px;
 
-}
-.choose h2{
-    width: 328px;
-    height: 20px;
-    font-family: 'Montserrat';
-    font-style: normal;
-    font-weight: 600;
-    font-size: 20px;
-    line-height: 20px;
-    color: #262729;
-    margin-left: 160px;
-    margin-top: 25px;
-
-}
 .choose h3{
     width: 328px;
     height: 44px;
@@ -259,8 +237,9 @@ margin-left: 75px;
     font-weight: 400;
     line-height: 22px;
     color: #262729;
-    margin-left: 140px;
     margin-top: 15px;
+    text-align: center;
+    margin-left: 80px;
 
 }.choose h4{
     width: 328px;
@@ -271,9 +250,11 @@ margin-left: 75px;
     font-size: 20px;
     line-height: 20px;
     color: #262729;
-    margin-left: 190px;
     margin-top: 25px;
+    text-align: center;
+    margin-left: 80px;
 }
+
 
 .offers{
     padding: 10px,20px;
@@ -364,6 +345,8 @@ color: #262729;
 }
 .review{
     padding: 10px,20px;
+    margin-bottom: 230px;
+    margin-top: 160px;
 }
 .review h1{
     width: 119px;
@@ -376,14 +359,14 @@ color: #262729;
     text-align: center;
     color: #262729;
     margin-left: 200px;
-    margin-top: 80px;
-    margin-bottom: 80px;
+    /* margin-top: 80px; */
+    /* margin-bottom: -180px; */
 
 }
 .hm{
     margin-left: 200px;
-    margin-bottom: 40px;
-    margin-top: 40px;
+    margin-bottom: 20px;
+    /* margin-top: 20px; */
 }
 .review p{
     width: 312px;
@@ -423,9 +406,8 @@ color: #262729;
     color: #262729;
 }
 .more{
-    padding-top: 70px;
     padding-left: 100px;
-    padding-bottom: 100px;
+    transform: translateY(1160px);
 }
 .posts{
     padding: 10px,20px;
@@ -444,7 +426,7 @@ color: #262729;
 }
 .rock{
     padding-left: 85px;
-    padding-bottom: 30px;
+    padding-bottom: 15px;
 }
 .time{
     display: flex;
@@ -452,6 +434,9 @@ color: #262729;
     margin-left: 70px;
     margin-right: 70px;
 
+}
+#clock{
+    margin-left: 300px;
 }
 .time h2{
     font-family: 'Montserrat';
