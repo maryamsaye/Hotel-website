@@ -2,39 +2,20 @@
 
 **Description**
 This project is a web page designed with HTML, CSS and JAVASCRIPT, featuring a responsive layout and modern design elements.
-## Table of Contents
-[Project Name](#hotel-website-mobile-view)
+## **Table of Contents**
+- [Project Name](#hotel-website-mobile-view)
+- [Table of Contents](#table-of-contents)
+- [Introduction](#overview)
+- [Live Demo](#live-demo)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Setup and Installation](#setup-and-installation)
+- [Usage](#usage)
+- [License](#license)
+- [Author(s)](#authors)
 
 
-[Table of Contents](#table-of-contents)
-
-
-[Introduction](#overview)
-
-
-[Live Demo](#live-demo)
-
-
-[Features](#features)
-
-
-[Technologies Used](#technologies-used)
-
-
-[Setup and Installation](#setup-and-installation)
-
-
-[Usage](#usage)
-     
-
-
-[License](#license)
-
-
-[Author(s)](#authors)
-
-
-##Overview
+## Overview
 
 
 This project is built using HTML, CSS and JAVASCRIPT and provides a visually appealing and responsive layout for a web page.It includes sections such as:
@@ -50,16 +31,16 @@ Then lastly footer with additional links and information
 ## [Live Demo]
 
 
--checkout the live demo of the project;[Live Demo] (https://hotel-website-kuw8.onrender.com)
+- checkout the live demo of the project;[Live Demo] (https://hotel-website-kuw8.onrender.com)
 
--watch my loom video presentation of the project; ()
+- watch my loom video presentation of the project; (https://www.loom.com/share/0d90735fe02344ddabb255cda3a2da25?sid=5aa2bc16-2427-4a84-b8ed-31543e255eb2)
 
 
 ## Technologies Used
 
--HTML5
--CSS3
--JAVASCRIPT
+- HTML5
+- CSS3
+- JAVASCRIPT
 
 
 ## Features
@@ -96,7 +77,7 @@ https://github.com/maryamsaye/Hotel-website.git
      cd Hotel-website
                ```
 
-**Open the HTML File**
+## **Open the HTML File**
 
 
 Open index. html in your preferred browser to view the project.
